@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-121212?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
 </p>
 
-
+</br>
 <h3 align="center"><b>🧾Studying🧾</b></h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React.js-4479A1?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
