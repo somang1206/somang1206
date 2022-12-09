@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Solved.ac
-somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+<!-- [![Solved.ac
+somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
 
 </br>
 <h3><b>💌Contact💌</b></h3>
