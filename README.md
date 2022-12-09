@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 
  🔭 I’m currently working on ...studying Javascript
+ 
+ </br>
+ 
  🌱 I’m currently learning ...React.js
 
 </div>
