@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React.js-4479A1?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Photoshop-1F1E6E?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Illustrator-6E341E?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Figma-121212?style=flat-square&logo=Adobe Figma&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Figma-121212?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
 </p>
 
 
