@@ -39,4 +39,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somang1206)](https://github.com/ryo-ma/github-profile-trophy)
 
+</br>
+💌Social💌
+
 </div>
