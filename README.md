@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🧾Studying🧾</b></h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React.js-4479A1?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/TypeScript.js-4479A1?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
 
 </br></br>
 
