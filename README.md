@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...web
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,6 +15,13 @@ Here are some ideas to get you started:
 
 
 -->
+
+
+- 🔭 I’m currently working on ...studying Javascript
+- 🌱 I’m currently learning ...React.js
+
+</br>
+
 <div align="center">
 <h3 align="center"><b>❣ Tech Stack ❣</b></h3>
 </br>
