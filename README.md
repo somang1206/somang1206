@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 -->
+<div align="center">
 <h3 align="center"><b>❣ Tech Stack ❣</b></h3>
 </br>
 <p align="center">
@@ -38,3 +39,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somang1206)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
