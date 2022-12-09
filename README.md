@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ...studying Javascript
-- 🌱 I’m currently learning ...React.js
+ 🔭 I’m currently working on ...studying Javascript
+ 🌱 I’m currently learning ...React.js
 
 </div>
 
