@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somang1206)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![Solved.ac
+somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 </br>
 <h3><b>💌Contact💌</b></h3>
 
