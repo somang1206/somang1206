@@ -59,4 +59,5 @@ somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https:/
 </br>
 <h3><b>💌Contact💌</b></h3>
 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 </div>
