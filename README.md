@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 ![Somangly's GitHub stats](https://github-readme-stats.vercel.app/api?username=somang1206&show_icons=true&theme=radical)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=somang1206)](https://github.com/ryo-ma/github-profile-trophy)
 
