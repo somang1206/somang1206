@@ -62,8 +62,9 @@ Here are some ideas to get you started:
 somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
 
 </br>
+<h3><b>💌Contact💌</b></h3>
 
-<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/><h3><b>💌Contact💌</b></h3>
+<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
 
 <a href="https://www.notion.so/3e7e21460b9b47a6a07b8f991a6c546e"></a>
 </div>
