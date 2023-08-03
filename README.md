@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&type=slice&color=9CC7E6&height=200&section=header&text=SOMANG%20LEE&fontSize=50&animation=blink&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?section=header&type=soft&color=9CC7E6&height=100&section=header&text=SOMANG%20LEE&fontSize=50&animation=blink&fontColor=ffffff)
 
 <div align="center">
 
@@ -107,4 +107,4 @@ somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https:/
 
 
 </div>
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
