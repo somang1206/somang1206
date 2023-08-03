@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-fce6ea.svg?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-fce6ea.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-fce6ea.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-fce6ea.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-fce6ea.svg?style=flat&logo=javascript&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-fce6ea.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-fce6ea.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
