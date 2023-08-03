@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </br>
 <h3 align="center"><b>🧾Studying🧾</b></h3>
 
-<img src="https://img.shields.io/badge/TypeScript-5682E1?style=flat-square&logo=TypeScript&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/TypeScript-5682E1?style=flat-square&logo=TypeScript&logoColor=white"></a>
 
 </br></br>
 
