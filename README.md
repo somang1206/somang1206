@@ -65,12 +65,11 @@ Here are some ideas to get you started:
 
 </br>
 <h3><b>✍Projects✍</b></h3>
-<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+
 
 
 <h3><b>✍STUDY RECORD✍</b></h3>
-<a href="https://www.notion.so/yunjinius/DBDBD-fe2c74c88aaa4320baa9b8ed7b45a4b7">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
 
