@@ -64,12 +64,15 @@ Here are some ideas to get you started:
 
 
 </br>
-<h3><b>✍Projects✍</b></h3>
 
 
 
-<h3><b>✍STUDY RECORD✍</b></h3>
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+<h3><b>✍STUDY RECORD✍<</b></h3>
+
+<a href="https://www.notion.so/82aca361e2c14584b15f1aff0f22508a">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
 
 
 
@@ -95,11 +98,6 @@ Here are some ideas to get you started:
 somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
 
 </br>
-<h3><b>💌MORE💌</b></h3>
-
-<a href="https://www.notion.so/82aca361e2c14584b15f1aff0f22508a">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-
 
 
 </div>
