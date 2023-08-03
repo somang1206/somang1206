@@ -85,8 +85,8 @@ somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https:/
 </br>
 <h3><b>💌Contact💌</b></h3>
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://www.notion.so/82aca361e2c14584b15f1aff0f22508a">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href="https://www.notion.so/3e7e21460b9b47a6a07b8f991a6c546e">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
-<a href="https://www.notion.so/3e7e21460b9b47a6a07b8f991a6c546e"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
 </div>
