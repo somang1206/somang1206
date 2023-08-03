@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 
-![JAVA badge](https://img.shields.io/badge/iOS-13.0%2B-green)
+![JAVA badge](https://img.shields.io/badge/JAVA-11.0%2B-green)
 <img src="https://img.shields.io/badge/mysql-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 
