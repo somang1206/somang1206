@@ -1,6 +1,5 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SOMANG%LEE&animation=fadeIn&fontSize=90&textBg=true%fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
 <div align="center">
 
