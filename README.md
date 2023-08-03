@@ -38,33 +38,33 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 
-![Java](https://img.shields.io/badge/java-ACE0FC?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-9CC7E6?style=flat-square&logo=openjdk&logoColor=white)
 
 
-![MariaDB](https://img.shields.io/badge/MariaDB-ACE0FC?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-ACE0FC.svg?style=flat-square&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-ACE0FC?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-ACE0FC.svg?style=flat-square&logo=spring&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-9CC7E6?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-9CC7E6.svg?style=flat-square&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-9CC7E6?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-9CC7E6.svg?style=flat-square&logo=spring&logoColor=white)
 
 
-![Eclipse](https://img.shields.io/badge/Eclipse-ACE0FC.svg?style=flat-square&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-ACE0FC.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ACE0FC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-9CC7E6.svg?style=flat-square&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-9CC7E6.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9CC7E6.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-ACE0FC.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-9CC7E6.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 
 
-![HTML5](https://img.shields.io/badge/html5-ACE0FC.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-ACE0FC.svg?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-ACE0FC.svg?style=flat-square&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-ACE0FC.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-ACE0FC.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-ACE0FC.svg?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-9CC7E6.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-9CC7E6.svg?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-9CC7E6.svg?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-9CC7E6.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-9CC7E6.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-9CC7E6.svg?style=flat-square&logo=javascript&logoColor=white)
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-ACE0FC.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ACE0FC.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-ACE0FC?style=flat-square&logo=adobeindesign&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-ACE0FC.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-9CC7E6.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-9CC7E6.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-9CC7E6?style=flat-square&logo=adobeindesign&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-9CC7E6.svg?style=flat-square&logo=figma&logoColor=white)
 </p>
 
 
