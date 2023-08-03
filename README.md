@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" bg>
 
 ### Hi there! I'm SOMANG LEE 👋
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 
-![Java](https://img.shields.io/badge/java-%fce6ea.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%fce6ea.svg?style=flat&logo=openjdk&logoColor=white)
 
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-fce6ea?style=for-the-badge&logo=mariadb&logoColor=white)
