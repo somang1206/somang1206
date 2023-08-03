@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </br>
 <h3 align="center"><b>🧾NOW Studying...🧾</b></h3>
 
-<img src="https://img.shields.io/badge/TypeScript-bae1ff?style=flat-square&logo=TypeScript&logoColor=white"></a>
+<img src="https://img.shields.io/badge/TypeScript-ffdfba?style=flat-square&logo=TypeScript&logoColor=white"></a>
 
 </br></br>
 
