@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&type=soft&color=auto&height=300&section=header&text=SOMANG%20LEE&fontSize=90&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?section=header&type=soft&color=auto&height=200&section=header&text=SOMANG%20LEE&fontSize=90&animation=fadeIn&fontColor=ffffff)
 <div align="center">
 
 
