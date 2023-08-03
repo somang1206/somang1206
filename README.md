@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-fce6ea?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-fce6ea.svg?style=flat&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-fce6ea?style=flat&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%fce6ea.svg?style=flat&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-fce6ea.svg?style=flat&logo=spring&logoColor=white)
 
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-fce6ea.svg?style=flat&logo=Eclipse&logoColor=white)
