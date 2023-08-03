@@ -3,7 +3,6 @@
 
 </br>
 </br>
-</br>
 
 ### Hi there! I'm SOMANG LEE 👋
 
