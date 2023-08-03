@@ -62,8 +62,21 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
+
 </br>
-<h3 align="center"><b>🧾Studying🧾</b></h3>
+<h3><b>✍Projects✍</b></h3>
+<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
+<h3><b>✍STUDY RECORD✍</b></h3>
+<a href="https://www.notion.so/yunjinius/DBDBD-fe2c74c88aaa4320baa9b8ed7b45a4b7">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
+
+
+</br>
+<h3 align="center"><b>🧾NOW Studying...🧾</b></h3>
 
 <img src="https://img.shields.io/badge/TypeScript-5682E1?style=flat-square&logo=TypeScript&logoColor=white"></a>
 
@@ -83,10 +96,11 @@ Here are some ideas to get you started:
 somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
 
 </br>
-<h3><b>💌Contact💌</b></h3>
+<h3><b>💌MORE💌</b></h3>
 
 <a href="https://www.notion.so/82aca361e2c14584b15f1aff0f22508a">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://www.notion.so/3e7e21460b9b47a6a07b8f991a6c546e">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
-<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+
+
 </div>
