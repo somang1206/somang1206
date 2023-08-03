@@ -67,14 +67,15 @@ Here are some ideas to get you started:
 
 
 
-<h3><b>✍STUDY RECORD✍<</b></h3>
+<h3><b>✍STUDY RECORD✍</b></h3>
 
 <a href="https://www.notion.so/82aca361e2c14584b15f1aff0f22508a">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 <a href="https://github.com/somang1206">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
+<h3><b>🤝TEAM STUDY RECORD🤝</b></h3>
 
-
+<a href="https://www.notion.so/yunjinius/DBDBD-fe2c74c88aaa4320baa9b8ed7b45a4b7">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 
 </br>
@@ -98,6 +99,9 @@ Here are some ideas to get you started:
 somang1206](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
 
 </br>
+
+
+
 
 
 </div>
