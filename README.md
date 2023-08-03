@@ -1,8 +1,8 @@
 
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&width=100%&section=header&text=SOMANG%LEE&animation=fadeIn&fontSize=90&textBg=true%fontColor=ffffff)
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SOMANG%LEE&animation=fadeIn&fontSize=90&textBg=true%fontColor=ffffff)
 
 
 ### Hi there! I'm SOMANG LEE 👋
