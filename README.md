@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 
-![Java](https://img.shields.io/badge/java-%fce6ea?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-fce6ea?style=flat&logo=openjdk&logoColor=white)
 
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-fce6ea?style=flat&logo=mariadb&logoColor=white)
