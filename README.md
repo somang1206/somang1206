@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 
-[<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> ](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 <img src="https://img.shields.io/badge/mysql-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 
