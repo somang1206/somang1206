@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align="center"><b>❣ Tech Stack ❣</b></h3>
 </br>
-<p align="left">
+<p align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
