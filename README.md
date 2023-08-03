@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 
-<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/mysql-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+[<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> ](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+<img src="https://img.shields.io/badge/mysql-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Photoshop-1F1E6E?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Illustrator-6E341E?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Figma-121212?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Photoshop-1F1E6E?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-6E341E?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Figma-121212?style=flat-square&logo=Figma&logoColor=white"/></a>
 </p>
 
 </br>
