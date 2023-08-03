@@ -41,30 +41,30 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-8cbed6?style=flat&logo=openjdk&logoColor=white)
 
 
-![MariaDB](https://img.shields.io/badge/MariaDB-8cbed6?style=flat&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-8cbed6.svg?style=flat&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-8cbed6?style=flat&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-8cbed6.svg?style=flat&logo=spring&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-8cbed6?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-8cbed6.svg?style=flat-square&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-8cbed6?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-8cbed6.svg?style=flat-square&logo=spring&logoColor=white)
 
 
-![Eclipse](https://img.shields.io/badge/Eclipse-8cbed6.svg?style=flat&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8cbed6.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-8cbed6.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-8cbed6.svg?style=flat-square&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8cbed6.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-8cbed6.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-8cbed6.svg?style=flat&logo=apache-tomcat&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-8cbed6.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 
 
-![HTML5](https://img.shields.io/badge/html5-8cbed6.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-8cbed6.svg?style=flat&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-8cbed6.svg?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-8cbed6.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-8cbed6.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-8cbed6.svg?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-8cbed6.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-8cbed6.svg?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-8cbed6.svg?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-8cbed6.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-8cbed6.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-8cbed6.svg?style=flat-square&logo=javascript&logoColor=white)
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-8cbed6.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-8cbed6.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-8cbed6?style=flat&logo=adobeindesign&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-8cbed6.svg?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-8cbed6.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-8cbed6.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-8cbed6?style=flat-square&logo=adobeindesign&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-8cbed6.svg?style=flat-square&logo=figma&logoColor=white)
 </p>
 
 
