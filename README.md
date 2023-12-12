@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <h3><b>🤝TEAM STUDY RECORD🤝</b></h3>
 
-<a href="https://www.notion.so/yunjinius/DBDBD-fe2c74c88aaa4320baa9b8ed7b45a4b7">![Notion](https://img.shields.io/badge/Notion-baffc9.svg?style=flat-square&logo=notion&logoColor=white)</a>
+<a href="https://www.notion.so/yunjinius/66db425aafc64d95b39693825602c381">![Notion](https://img.shields.io/badge/Notion-baffc9.svg?style=flat-square&logo=notion&logoColor=white)</a>
 
 
 </br>
